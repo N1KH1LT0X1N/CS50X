@@ -1,2 +1,2 @@
 # CS50X
-Introduction to Computer Science (Harvard University) Solutions
+Introduction to Computer Science (Harvard University) Repository
