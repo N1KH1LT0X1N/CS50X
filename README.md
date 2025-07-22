@@ -1,69 +1,53 @@
-# CS50x - Introduction to Computer Science
-https://cs50.harvard.edu/x/2024/
+# CS50X
 
-## Nikhil Pise | 2024
-Welcome to my CS50x repository! This repository contains my journey through *CS50x - Harvard University's Introduction to Computer Science* course, showcasing my solutions of 2024.
+Welcome to the **CS50X** repository! This project contains solutions, notes, and resources for Harvard University's [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) (CS50X) course.
 
----
+## 📚 About
 
-## 🖥️ About the Course
-CS50x is a world-renowned computer science course that covers fundamental topics in programming, algorithms, data structures, and more. Here's what the course entails:
+CS50X is an entry-level course that introduces students to the art of computer science and the fundamentals of programming. This repository is intended to:
 
-- **Languages Covered:** C, Python, SQL, HTML, CSS, JavaScript
-- **Key Concepts:** Algorithms, Data Structures, Memory Management, Web Development, and more
-- **Final Project:** Build your own software project to solve a real-world problem
+- Store solutions to problem sets, labs, and final projects
+- Document key concepts and summaries from each week
+- Share useful resources to supplement your learning
 
-Learn more about the course at [CS50x's official website](https://cs50.harvard.edu/x/).
-
----
-
-## 📂 Repository Structure
-
-This repository is organized as follows:
+## 🗂️ Repository Structure
 
 ```
-CS50x/
-├── week0/         # Problem Set 0: Scratch
-├── week1/         # Problem Set 1: C
-├── week2/         # Problem Set 2: Arrays
-├── week3/         # Problem Set 3: Algorithms
-├── week4/         # Problem Set 4: Memory 
-├── week5/         # Problem Set 5: Data Structures
-├── week6/         # Problem Set 6: Python 
-├── week7/         # Problem Set 7: SQL
-├── week8/         # Problem Set 8: HTML , CSS , JavaScript
-├── week9/         # Problem Set 9: Flask
-├── week10/        # Problem Set 9: Final Project
-└── README.md      # This File
+CS50X/
+├── week0/
+├── week1/
+├── week2/
+├── ...
+├── week10/
+└── README.md
 ```
+- **weekX/**: Content divided weekwise
+- **lecX/**: Solutions to lab assignments.
+- **psX/**: Solutions to Problem Sets.
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/N1KH1LT0X1N/CS50X.git
+   cd CS50X
+   ```
+2. **Set up your environment:**
+   - CS50X assignments use languages including C, Python, and SQL.
+   - Install [CS50 Library](https://cs50.readthedocs.io/) as needed.
+   - You can use the [CS50 IDE](https://ide.cs50.io/) or set up your own development environment.
+
+3. **Run solutions:**
+   - Navigate to the relevant directory and compile/run the code as instructed in each problem set.
+
+## 📝 Contributing
+
+Contributions are welcome! If you find issues or have suggestions, feel free to open an issue or submit a pull request.
+
+## 📢 License
+
+This repository is for educational use only. Please respect CS50’s [Academic Honesty Policy](https://cs50.harvard.edu/x/honesty/).
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Languages:** C, Python, SQL, HTML, CSS, JavaScript
-- **Development Tools:** Visual Studio Code, CS50 IDE, GitHub, Flask
-
----
-
-## 📈 Progress
-
-| Week | Topic                            | Status        |
-|------|----------------------------------|---------------|
-| 1    | C                               | ✅ Completed    |
-| 2    | Arrays & Algorithms             | ✅ Completed    |
-| 3    | Memory Management               | ✅ Completed    |
-| 4    | Data Structures                 | ✅ Completed    |
-| 5    | Python Programming              | ✅ Completed    |
-| 6    | Web Development Basics          | ✅ Completed    |
-| 7    | SQL and Databases               | ✅ Completed    |
-| 8    | HTML,CSS,JavaScript             | ✅ Completed    |
-| 9    | Flask                           | ✅ Completed    |
-
-
-
-## 🤝 Contributions
-
-Feel free to fork this repository and star it
-
----
+Happy learning and coding! 🚀
